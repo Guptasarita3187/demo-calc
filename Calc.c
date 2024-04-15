@@ -2,4 +2,5 @@ int sum (int x,int y)
 {
     return x+y;
 }
+int z=5;
 
